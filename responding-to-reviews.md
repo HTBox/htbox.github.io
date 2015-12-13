@@ -7,7 +7,7 @@ layout: default
 
 ## TL;DR
 
-If you update your code, and push to your fork, github automatically updates the PR. We'll see the changes. If you disagree with the review, please comment on the code, and tell us why your approach is better. We may or may not approve it, but we will listen.
+> If you update your code, and push to your fork, github automatically updates the PR. We'll see the changes. If you disagree with the review, please comment on the code, and tell us why your approach is better. We may or may not approve it, but we will listen.
 
 ## Long Version
 
