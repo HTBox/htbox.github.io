@@ -6,7 +6,7 @@ layout: default
 
 ## TL;DR
 
-> Work as you normally would, commit and push your changes at the cadence that works for you. Please make one Pull Request for one Issue, rather than fixing several issues in on PR. It's much easier for us to review and merge when a PR is focused on one issue.
+> Work as you normally would, commit and push your changes at the cadence that works for you. Please make one Pull Request for one Issue, rather than fixing several issues in one PR. It's much easier for us to review and merge when a PR is focused on one issue.
 
 ## Long Version
 
