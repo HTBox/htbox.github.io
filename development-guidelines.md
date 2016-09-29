@@ -4,6 +4,8 @@ layout: default
 
 # Development Guidelines
 
+*These guidelines are based on the experience with the allReady project. These have been very helpful for us on this project, but may not be applicable to every project. We'll update these as we onboard other projects.*
+
 ## Conventions and Patterns
 
 ### Mediatr Components - Naming Conventions
