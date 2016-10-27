@@ -35,3 +35,24 @@ The handlers should match the query message name with the suffix of "Handler". e
 
 - EventSummaryQueryHandler
 - TaskDetailQueryHandler
+
+### Unit Tests - Naming Conventions
+
+**Controller unit tests:**
+
+A controller unit test should be named as follows:
+
+- "Controllername" ControllerTests
+
+So, for instance: AdminControllerTests or GlobalControllerTests
+
+**Any other unit tests:**
+
+Any other unit tests should be named descriptevelit and end in "Should".
+
+Some examples:
+- DataReaderExtensionsShould
+- FormFileExtensionShould
+- ApplicationUserQueryShould
+
+
