@@ -48,7 +48,7 @@ So, for instance: AdminControllerTests or GlobalControllerTests
 
 **Any other unit tests:**
 
-Any other unit tests should be named descriptevelit and end in "Should".
+Any other unit tests should be named descriptively and end in "Should".
 
 Some examples:
 - DataReaderExtensionsShould
