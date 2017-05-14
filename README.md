@@ -1,11 +1,11 @@
 # htbox.github.io
 This site provides the collection of our current policies on the Humanitarian Toolbox.
 In most cases, consider the guidance here as our current "default answer" to many
-important questios.
+important questions.
 
 If you are working on a project, and you have a different recommendation, we will 
 consider that request for a single project. IF it works well in that project,
-we will consdier making it the default answer on new projects. We'll also consider
+we will consider making it the default answer on new projects. We'll also consider
 adding that new policy to existing projects, in those cases where the benefits
 justify the work.
 

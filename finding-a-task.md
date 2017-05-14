@@ -14,11 +14,11 @@ We use Github issues to manage work. This could be proposed features, tasks unde
 
 Some projects have other upcoming milestones, based on customer needs, upcoming pilots, or upcoming releases.
 
-In addition, we label issues to provide some additional guidance. Within a milestone, we will use the 'P1', 'P2' and 'P3' labels to tag the priority of a task or feature. (P1 is the highest, P3 is the lowest.) In addition, we use the 'JumpIn' label (which is always green on our projects) to denote issues that would be suitable for someone not yet familiar with the project. The 'JumpIn' issues may not always represent simple fixes, but they do represent work that does not require a deep knowlege of the code base, or a deep knowledge of the business workflow for a project.
+In addition, we label issues to provide some additional guidance. Within a milestone, we will use the 'P1', 'P2' and 'P3' labels to tag the priority of a task or feature. (P1 is the highest, P3 is the lowest.) In addition, we use the 'jump-in' label (which is always green on our projects) to denote issues that would be suitable for someone not yet familiar with the project. The 'jump-in' issues may not always represent simple fixes, but they do represent work that does not require a deep knowlege of the code base, or a deep knowledge of the business workflow for a project.
 
 Other labels are project-specific and will be documented for that project.
 
-Tag yourself in a comment saying that you're working on an issue, and we'll start the converation. 
+Tag yourself in a comment saying that you're working on an issue, and we'll start the conversation. 
 
 You may notice that you can't assign yourself to work on an issue. That privilege is limited to the core team. Also, we can only assign issues to registered team members. If you enjoy working on our projects, we'll add you to the team, and we will assign tasks when you tag yourself.
 
