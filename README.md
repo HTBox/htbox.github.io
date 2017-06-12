@@ -1,7 +1,7 @@
 # htbox.github.io
 This site provides the collection of our current policies on the Humanitarian Toolbox.
 In most cases, consider the guidance here as our current "default answer" to many
-important questios.
+important questions.
 
 If you are working on a project, and you have a different recommendation, we will 
 consider that request for a single project. IF it works well in that project,
